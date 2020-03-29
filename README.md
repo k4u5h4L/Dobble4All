@@ -1,5 +1,5 @@
-# DobbleGame
-An offline site made using JS to play Dobble together.
+# Dobble4All
+An offline site made using JS to play Dobble together!
 
 ## Issues:
 * You may need to play it on a single computer.
