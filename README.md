@@ -9,4 +9,7 @@ An offline site made using JS to play Dobble together!
 * Pictures got from [Dobble homepage](https://www.dobblegame.com/en/homepage/)
 * Template used from [colorlib](https://colorlib.com/)
 
+
+The algorithms required to generate cards are in the algorithms/ directory. It is not directly used by the site, but it is more like a reference code as to how the cards are generated.
+
 Have fun, and stay tuned!!
